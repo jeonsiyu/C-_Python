@@ -19,8 +19,8 @@ namespace HelloCSharp003_01
 
             //java 상수 final, c에서는 상수 const 혹은 readonly
             //상수는 보통 대문자로 표기하며, 가독성을 위해서 사용됨
-            double POUND = 2.20462262; //2번 문제용
-            double PI = 3.14; //3번 문제용
+            const double POUND = 2.20462262; //2번 문제용
+            const double PI = 3.14; //3번 문제용
             Console.WriteLine("2번. kg을 입력하세요.");
             int kg = int.Parse(Console.ReadLine());
             Console.WriteLine($"{kg}kg = {kg*POUND}pound");
