@@ -100,7 +100,7 @@ namespace _0718_01
             }
             else if (month >= 6 && month <= 8)
             {
-                Console.WriteLine(month  + "은 여름 입니다.");
+                Console.WriteLine(month + "은 여름 입니다.");
             }
             else if (month >= 9 && month <= 11)
             {
@@ -108,7 +108,7 @@ namespace _0718_01
             }
             else if (month == 12 || month == 1 || month == 2)
             {
-               Console.WriteLine(month + "은 겨울 입니다");
+                Console.WriteLine(month + "은 겨울 입니다");
             }
             else
             {
@@ -147,5 +147,6 @@ namespace _0718_01
                     // DateTime.Now.Month
 
             }
+        }
     }
 }

@@ -40,7 +40,8 @@ namespace HelloCSharp004_02
                 //    min = numbers[i];
                 min = numbers[i]<min ? numbers[i] : min;
             }
-            
+            Console.WriteLine("최댓값 : " + max +", 최솟값 : " + min);
+
         }
     }
 }

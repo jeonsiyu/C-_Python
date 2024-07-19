@@ -1,15 +1,10 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "\\\\192.168.0.2\\e\\djlee\\djCSharp\\HelloCSharp004\\",
+  "WorkspaceRootPath": "E:\\djlee\\djCSharp\\HelloCSharp004\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{DA5E30D9-77CE-445C-8BB1-9003A58357E9}|HelloCSharp004_02\\HelloCSharp004_02.csproj|\\\\192.168.0.2\\e\\djlee\\djcsharp\\hellocsharp004\\hellocsharp004_02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5472D6F5-D605-4503-AF46-C2C90F15C60B}|HelloCSharp004_01\\HelloCSharp004_01.csproj|\\\\192.168.0.2\\e\\djlee\\djCSharp\\HelloCSharp004\\hellocsharp004_01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6BB07EC5-1FA6-4F92-924F-80BFD71DAD9F}|HelloCSharp004\\HelloCSharp004.csproj|\\\\192.168.0.2\\e\\djlee\\djCSharp\\HelloCSharp004\\hellocsharp004\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{91840496-8380-4768-BB49-CAF2904D2D81}|HelloCSharp004_03\\HelloCSharp004_03.csproj|e:\\djlee\\djcsharp\\hellocsharp004\\hellocsharp004_03\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91840496-8380-4768-BB49-CAF2904D2D81}|HelloCSharp004_03\\HelloCSharp004_03.csproj|solutionrelative:hellocsharp004_03\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -25,38 +20,14 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "\\\\192.168.0.2\\e\\djlee\\djCSharp\\HelloCSharp004\\HelloCSharp004_02\\Program.cs",
-              "RelativeDocumentMoniker": "HelloCSharp004_02\\Program.cs",
-              "ToolTip": "\\\\192.168.0.2\\e\\djlee\\djCSharp\\HelloCSharp004\\HelloCSharp004_02\\Program.cs",
-              "RelativeToolTip": "HelloCSharp004_02\\Program.cs",
-              "ViewState": "AQIAABkAAAAAAAAAAAAywBMAAAAmAAAA",
+              "DocumentMoniker": "E:\\djlee\\djCSharp\\HelloCSharp004\\HelloCSharp004_03\\Program.cs",
+              "RelativeDocumentMoniker": "HelloCSharp004_03\\Program.cs",
+              "ToolTip": "E:\\djlee\\djCSharp\\HelloCSharp004\\HelloCSharp004_03\\Program.cs",
+              "RelativeToolTip": "HelloCSharp004_03\\Program.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAAAqwDUAAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-18T06:24:24.157Z",
+              "WhenOpened": "2024-07-19T00:38:13.347Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "\\\\192.168.0.2\\e\\djlee\\djCSharp\\HelloCSharp004\\HelloCSharp004_01\\Program.cs",
-              "RelativeDocumentMoniker": "HelloCSharp004_01\\Program.cs",
-              "ToolTip": "\\\\192.168.0.2\\e\\djlee\\djCSharp\\HelloCSharp004\\HelloCSharp004_01\\Program.cs",
-              "RelativeToolTip": "HelloCSharp004_01\\Program.cs",
-              "ViewState": "AQIAABUAAAAAAAAAAAAIwCMAAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-18T02:49:38.271Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "\\\\192.168.0.2\\e\\djlee\\djCSharp\\HelloCSharp004\\HelloCSharp004\\Program.cs",
-              "RelativeDocumentMoniker": "HelloCSharp004\\Program.cs",
-              "ToolTip": "\\\\192.168.0.2\\e\\djlee\\djCSharp\\HelloCSharp004\\HelloCSharp004\\Program.cs",
-              "RelativeToolTip": "HelloCSharp004\\Program.cs",
-              "ViewState": "AQIAAHQAAAAAAAAAAAAuwIAAAAANAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-18T02:23:12.613Z"
             }
           ]
         }
