@@ -1,8 +1,8 @@
 ﻿namespace _0719_06
 {
-    internal class Student
+    public class Student
     {
-        public string name;
-        public int grade;
+        public string name { get; set;}
+        public int grade {get; set;}
     }
 }

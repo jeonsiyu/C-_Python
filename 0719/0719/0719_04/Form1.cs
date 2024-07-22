@@ -14,21 +14,21 @@ namespace _0719_04
     {
         public Form1()
         {
-            InitializeComponent();
+            InitializeComponent(); // 디자인 창에서 디자인 된 걸 화면에 뿌림
 
       
-          myButton.Text = "코드에서 변경!";
-          myButton.Width = 100;
+          myButton.Text = "코드에서 변경!"; // 버튼 위에 적힌 텍스트 지정
+          myButton.Width = 100; // 버튼의 너비임의 조정
 
             for (int i = 0; i < 5; i++)
             {
                 Button button = new Button();
-                Controls.Add(button);
-                Point point = new Point();
+                Point point = new Point(); // 위치 저장하는 구조체
                 point.X = 13;
                 point.Y = 100 + 13 + (23 + 3) * i; 
                 button.Location = point;
                 button.Text = "동적 생성" + (i + 1) + "번째";
+                Controls.Add(button);
             }
 
 

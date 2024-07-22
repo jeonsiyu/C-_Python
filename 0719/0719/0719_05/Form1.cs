@@ -16,6 +16,7 @@ namespace _0719_05
         public Form1()
         {
             InitializeComponent();
+            ListText.Text = "";
             Random rand =new Random();
             button1.Text = rand.Next(100).ToString();
             button5.Text = button1.Text;

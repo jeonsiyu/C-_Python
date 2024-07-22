@@ -27,19 +27,19 @@ namespace _0719_06
             {
                 Label label = new Label();
                 label.Text = $"{students[i].grade}학년 {students[i].name} 학생";
-                label.AutoSize = true;
+                label.AutoSize = true; // 크기를 자동으로 설정해줌
                 label.Location = new Point(13, 13 + (23 + 3) * i);
                 Controls.Add(label);
             }
-
+            // 먼가를 제거하기 위해서 역 for문을 쓰는게 좋다.
             for (int i = students.Count - 1; i >= 0; i--)
             {
-                if (students[i].grade > 1)
+                if (students[i].grade > 1) 
                 {
-                    students.RemoveAt(i);
+                    students.RemoveAt(i); // i번째꺼 지우겠다!
                 }
             }
-
+           
             for (int i = 0; i < students.Count; i++)
             {
                 Label label = new Label();
