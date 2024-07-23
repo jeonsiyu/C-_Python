@@ -36,5 +36,10 @@ namespace _0722_02
         {
             label1.Text = DateTime.Now.ToString();
         }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }
