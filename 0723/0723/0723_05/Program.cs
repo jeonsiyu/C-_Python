@@ -59,6 +59,7 @@ namespace _0723_05
             fillMoney(siyou, long.MaxValue); //이 경우... yuna.money도 똑같은 값일 것임;;;
             Console.WriteLine(siyou.money);
             Console.WriteLine(yuna.money);
+
             BankAccount djlee = new BankAccount(); //복사할 때 주의해야 함
             djlee.gender = siyou.gender;
             djlee.name = "이동준";
