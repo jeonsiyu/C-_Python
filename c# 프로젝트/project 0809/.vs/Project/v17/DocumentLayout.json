@@ -1,0 +1,80 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\project 00 - \uBCF5\uC0AC\uBCF8\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E796BFA9-701B-4829-907B-79072B3C7FDC}|Project\\Project.csproj|C:\\Users\\User\\Desktop\\project 00 - \uBCF5\uC0AC\uBCF8\\project\\ucday.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E796BFA9-701B-4829-907B-79072B3C7FDC}|Project\\Project.csproj|solutionrelative:project\\ucday.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E796BFA9-701B-4829-907B-79072B3C7FDC}|Project\\Project.csproj|C:\\Users\\User\\Desktop\\project 00 - \uBCF5\uC0AC\uBCF8\\project\\calendar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E796BFA9-701B-4829-907B-79072B3C7FDC}|Project\\Project.csproj|solutionrelative:project\\calendar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E796BFA9-701B-4829-907B-79072B3C7FDC}|Project\\Project.csproj|C:\\Users\\User\\Desktop\\project 00 - \uBCF5\uC0AC\uBCF8\\project\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E796BFA9-701B-4829-907B-79072B3C7FDC}|Project\\Project.csproj|solutionrelative:project\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UcDay.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\project 00 - \uBCF5\uC0AC\uBCF8\\Project\\UcDay.cs",
+              "RelativeDocumentMoniker": "Project\\UcDay.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\project 00 - \uBCF5\uC0AC\uBCF8\\Project\\UcDay.cs",
+              "RelativeToolTip": "Project\\UcDay.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T00:29:07.908Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Calendar.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\project 00 - \uBCF5\uC0AC\uBCF8\\Project\\Calendar.cs",
+              "RelativeDocumentMoniker": "Project\\Calendar.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\project 00 - \uBCF5\uC0AC\uBCF8\\Project\\Calendar.cs",
+              "RelativeToolTip": "Project\\Calendar.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T03:25:21.305Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Main.cs [\uB514\uC790\uC778]",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\project 00 - \uBCF5\uC0AC\uBCF8\\Project\\Main.cs",
+              "RelativeDocumentMoniker": "Project\\Main.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\project 00 - \uBCF5\uC0AC\uBCF8\\Project\\Main.cs [\uB514\uC790\uC778]",
+              "RelativeToolTip": "Project\\Main.cs [\uB514\uC790\uC778]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T03:11:51.313Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

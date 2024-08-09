@@ -1,37 +1,37 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "E:\\djlee\\djCSharp\\\uCC38\uACE0\\CarParkingManager\\",
+  "WorkspaceRootPath": "C:\\Users\\User\\source\\repos\\c#\\CarParkingManager\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A6640B23-0332-4E18-9319-016A98D79832}|CarParkingManager\\CarParkingManager.csproj|e:\\djlee\\djcsharp\\\uCC38\uACE0\\carparkingmanager\\carparkingmanager\\datamanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A6640B23-0332-4E18-9319-016A98D79832}|CarParkingManager\\CarParkingManager.csproj|solutionrelative:carparkingmanager\\datamanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A6640B23-0332-4E18-9319-016A98D79832}|CarParkingManager\\CarParkingManager.csproj|E:\\djlee\\djCSharp\\\uCC38\uACE0\\CarParkingManager\\carparkingmanager\\dbhelperoracle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A6640B23-0332-4E18-9319-016A98D79832}|CarParkingManager\\CarParkingManager.csproj|C:\\Users\\User\\source\\repos\\c#\\CarParkingManager\\carparkingmanager\\dbhelperoracle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A6640B23-0332-4E18-9319-016A98D79832}|CarParkingManager\\CarParkingManager.csproj|solutionrelative:carparkingmanager\\dbhelperoracle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A6640B23-0332-4E18-9319-016A98D79832}|CarParkingManager\\CarParkingManager.csproj|E:\\djlee\\djCSharp\\\uCC38\uACE0\\CarParkingManager\\carparkingmanager\\dbhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A6640B23-0332-4E18-9319-016A98D79832}|CarParkingManager\\CarParkingManager.csproj|C:\\Users\\User\\source\\repos\\c#\\CarParkingManager\\carparkingmanager\\dbhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A6640B23-0332-4E18-9319-016A98D79832}|CarParkingManager\\CarParkingManager.csproj|solutionrelative:carparkingmanager\\dbhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A6640B23-0332-4E18-9319-016A98D79832}|CarParkingManager\\CarParkingManager.csproj|E:\\djlee\\djCSharp\\\uCC38\uACE0\\CarParkingManager\\carparkingmanager\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A6640B23-0332-4E18-9319-016A98D79832}|CarParkingManager\\CarParkingManager.csproj|solutionrelative:carparkingmanager\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A6640B23-0332-4E18-9319-016A98D79832}|CarParkingManager\\CarParkingManager.csproj|E:\\djlee\\djCSharp\\\uCC38\uACE0\\CarParkingManager\\carparkingmanager\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A6640B23-0332-4E18-9319-016A98D79832}|CarParkingManager\\CarParkingManager.csproj|solutionrelative:carparkingmanager\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A6640B23-0332-4E18-9319-016A98D79832}|CarParkingManager\\CarParkingManager.csproj|E:\\djlee\\djCSharp\\\uCC38\uACE0\\CarParkingManager\\carparkingmanager\\dbhelperms.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A6640B23-0332-4E18-9319-016A98D79832}|CarParkingManager\\CarParkingManager.csproj|C:\\Users\\User\\source\\repos\\c#\\CarParkingManager\\carparkingmanager\\dbhelperms.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A6640B23-0332-4E18-9319-016A98D79832}|CarParkingManager\\CarParkingManager.csproj|solutionrelative:carparkingmanager\\dbhelperms.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A6640B23-0332-4E18-9319-016A98D79832}|CarParkingManager\\CarParkingManager.csproj|E:\\djlee\\djCSharp\\\uCC38\uACE0\\CarParkingManager\\carparkingmanager\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{A6640B23-0332-4E18-9319-016A98D79832}|CarParkingManager\\CarParkingManager.csproj|c:\\users\\user\\source\\repos\\c#\\carparkingmanager\\carparkingmanager\\datamanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6640B23-0332-4E18-9319-016A98D79832}|CarParkingManager\\CarParkingManager.csproj|solutionrelative:carparkingmanager\\datamanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6640B23-0332-4E18-9319-016A98D79832}|CarParkingManager\\CarParkingManager.csproj|C:\\Users\\User\\source\\repos\\c#\\CarParkingManager\\carparkingmanager\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6640B23-0332-4E18-9319-016A98D79832}|CarParkingManager\\CarParkingManager.csproj|solutionrelative:carparkingmanager\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6640B23-0332-4E18-9319-016A98D79832}|CarParkingManager\\CarParkingManager.csproj|C:\\Users\\User\\source\\repos\\c#\\CarParkingManager\\carparkingmanager\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6640B23-0332-4E18-9319-016A98D79832}|CarParkingManager\\CarParkingManager.csproj|solutionrelative:carparkingmanager\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6640B23-0332-4E18-9319-016A98D79832}|CarParkingManager\\CarParkingManager.csproj|C:\\Users\\User\\source\\repos\\c#\\CarParkingManager\\carparkingmanager\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{A6640B23-0332-4E18-9319-016A98D79832}|CarParkingManager\\CarParkingManager.csproj|solutionrelative:carparkingmanager\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A6640B23-0332-4E18-9319-016A98D79832}|CarParkingManager\\CarParkingManager.csproj|E:\\djlee\\djCSharp\\\uCC38\uACE0\\CarParkingManager\\carparkingmanager\\parkingcar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A6640B23-0332-4E18-9319-016A98D79832}|CarParkingManager\\CarParkingManager.csproj|C:\\Users\\User\\source\\repos\\c#\\CarParkingManager\\carparkingmanager\\parkingcar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A6640B23-0332-4E18-9319-016A98D79832}|CarParkingManager\\CarParkingManager.csproj|solutionrelative:carparkingmanager\\parkingcar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -42,8 +42,12 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 3,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
@@ -54,47 +58,37 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Program.cs",
-              "DocumentMoniker": "E:\\djlee\\djCSharp\\\uCC38\uACE0\\CarParkingManager\\CarParkingManager\\Program.cs",
-              "RelativeDocumentMoniker": "CarParkingManager\\Program.cs",
-              "ToolTip": "E:\\djlee\\djCSharp\\\uCC38\uACE0\\CarParkingManager\\CarParkingManager\\Program.cs",
-              "RelativeToolTip": "CarParkingManager\\Program.cs",
-              "ViewState": "AQIAAA4AAAAAAAAAAAA3wBIAAAAMAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-30T12:15:41.132Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "DBHelperOracle.cs",
-              "DocumentMoniker": "E:\\djlee\\djCSharp\\\uCC38\uACE0\\CarParkingManager\\CarParkingManager\\DBHelperOracle.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\c#\\CarParkingManager\\CarParkingManager\\DBHelperOracle.cs",
               "RelativeDocumentMoniker": "CarParkingManager\\DBHelperOracle.cs",
-              "ToolTip": "E:\\djlee\\djCSharp\\\uCC38\uACE0\\CarParkingManager\\CarParkingManager\\DBHelperOracle.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\c#\\CarParkingManager\\CarParkingManager\\DBHelperOracle.cs",
               "RelativeToolTip": "CarParkingManager\\DBHelperOracle.cs",
-              "ViewState": "AQIAACIAAAAAAAAAAAAAwCcAAAAQAAAA",
+              "ViewState": "AQIAAGEAAAAAAAAAAAAuwJ4AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-30T11:11:25.525Z"
+              "WhenOpened": "2024-07-30T11:11:25.525Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 2,
               "Title": "DBHelperMS.cs",
-              "DocumentMoniker": "E:\\djlee\\djCSharp\\\uCC38\uACE0\\CarParkingManager\\CarParkingManager\\DBHelperMS.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\c#\\CarParkingManager\\CarParkingManager\\DBHelperMS.cs",
               "RelativeDocumentMoniker": "CarParkingManager\\DBHelperMS.cs",
-              "ToolTip": "E:\\djlee\\djCSharp\\\uCC38\uACE0\\CarParkingManager\\CarParkingManager\\DBHelperMS.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\c#\\CarParkingManager\\CarParkingManager\\DBHelperMS.cs",
               "RelativeToolTip": "CarParkingManager\\DBHelperMS.cs",
-              "ViewState": "AQIAAAwAAAAAAAAAAAAAAH4AAAAcAAAA",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAH4AAAAcAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-30T11:11:13.639Z"
+              "WhenOpened": "2024-07-30T11:11:13.639Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
               "Title": "ParkingCar.cs",
-              "DocumentMoniker": "E:\\djlee\\djCSharp\\\uCC38\uACE0\\CarParkingManager\\CarParkingManager\\ParkingCar.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\c#\\CarParkingManager\\CarParkingManager\\ParkingCar.cs",
               "RelativeDocumentMoniker": "CarParkingManager\\ParkingCar.cs",
-              "ToolTip": "E:\\djlee\\djCSharp\\\uCC38\uACE0\\CarParkingManager\\CarParkingManager\\ParkingCar.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\c#\\CarParkingManager\\CarParkingManager\\ParkingCar.cs",
               "RelativeToolTip": "CarParkingManager\\ParkingCar.cs",
               "ViewState": "AQIAAAYAAAAAAAAAAAAAAAgAAAAbAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -102,36 +96,49 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "DataManager.cs",
-              "DocumentMoniker": "E:\\djlee\\djCSharp\\\uCC38\uACE0\\CarParkingManager\\CarParkingManager\\DataManager.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\c#\\CarParkingManager\\CarParkingManager\\DataManager.cs",
               "RelativeDocumentMoniker": "CarParkingManager\\DataManager.cs",
-              "ToolTip": "E:\\djlee\\djCSharp\\\uCC38\uACE0\\CarParkingManager\\CarParkingManager\\DataManager.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\c#\\CarParkingManager\\CarParkingManager\\DataManager.cs",
               "RelativeToolTip": "CarParkingManager\\DataManager.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAAA4AAAAuAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACIAAAAlAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-29T06:53:45.031Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "DBHelper.cs",
-              "DocumentMoniker": "E:\\djlee\\djCSharp\\\uCC38\uACE0\\CarParkingManager\\CarParkingManager\\DBHelper.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\c#\\CarParkingManager\\CarParkingManager\\DBHelper.cs",
               "RelativeDocumentMoniker": "CarParkingManager\\DBHelper.cs",
-              "ToolTip": "E:\\djlee\\djCSharp\\\uCC38\uACE0\\CarParkingManager\\CarParkingManager\\DBHelper.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\c#\\CarParkingManager\\CarParkingManager\\DBHelper.cs",
               "RelativeToolTip": "CarParkingManager\\DBHelper.cs",
-              "ViewState": "AQIAABMAAAAAAAAAAAAAABYAAAAdAAAA",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAA0AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-29T06:53:29.732Z"
+              "WhenOpened": "2024-07-29T06:53:29.732Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\c#\\CarParkingManager\\CarParkingManager\\Program.cs",
+              "RelativeDocumentMoniker": "CarParkingManager\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\c#\\CarParkingManager\\CarParkingManager\\Program.cs",
+              "RelativeToolTip": "CarParkingManager\\Program.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAA3wBIAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T12:15:41.132Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "MainForm.cs",
-              "DocumentMoniker": "E:\\djlee\\djCSharp\\\uCC38\uACE0\\CarParkingManager\\CarParkingManager\\MainForm.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\c#\\CarParkingManager\\CarParkingManager\\MainForm.cs",
               "RelativeDocumentMoniker": "CarParkingManager\\MainForm.cs",
-              "ToolTip": "E:\\djlee\\djCSharp\\\uCC38\uACE0\\CarParkingManager\\CarParkingManager\\MainForm.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\c#\\CarParkingManager\\CarParkingManager\\MainForm.cs",
               "RelativeToolTip": "CarParkingManager\\MainForm.cs",
               "ViewState": "AQIAABEAAAAAAAAAAAA3wBgAAAAQAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -141,10 +148,9 @@
               "$type": "Document",
               "DocumentIndex": 6,
               "Title": "MainForm.cs [\uB514\uC790\uC778]",
-              "DocumentMoniker": "E:\\djlee\\djCSharp\\\uCC38\uACE0\\CarParkingManager\\CarParkingManager\\MainForm.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\c#\\CarParkingManager\\CarParkingManager\\MainForm.cs",
               "RelativeDocumentMoniker": "CarParkingManager\\MainForm.cs",
               "ToolTip": "E:\\djlee\\djCSharp\\\uCC38\uACE0\\CarParkingManager\\CarParkingManager\\MainForm.cs [\uB514\uC790\uC778]",
-              "RelativeToolTip": "CarParkingManager\\MainForm.cs [\uB514\uC790\uC778]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-29T06:09:55.123Z"
             }
